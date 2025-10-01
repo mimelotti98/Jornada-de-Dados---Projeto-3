@@ -55,4 +55,8 @@ Atrasos 30–59 dias: principal preditor, com taxa de inadimplência de 7% (20x 
 📈Conclusões e Recomendações: 
 O score_final permite classificar clientes em diferentes níveis de risco, oferecendo suporte para decisões de crédito mais assertivas.
 
-🔗Links Externos
+🔗Links Externos:
+Notion – Planejamento e Documentação do Projeto: https://www.notion.so/Projeto-3-20916db9dd868046bb24ca7f8d94d891?source=copy_link
+Documentação no Google Docs: https://docs.google.com/document/d/1JLUOxJuXkdD-zzuPTt9ZPkUUSY-N9Ib3mnyPic7LXX8/edit?usp=sharing
+Base de Dados no Google Sheets: https://drive.google.com/drive/folders/1QoOgnSDpoThvw_6gmFqlA0XB9bu4RgGf?usp=sharing
+Apresentação no Canva: https://www.canva.com/design/DAGupRr46G0/r0Q_hDIhoWQ94s5xTs1vvQ/edit?utm_content=DAGupRr46G0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
