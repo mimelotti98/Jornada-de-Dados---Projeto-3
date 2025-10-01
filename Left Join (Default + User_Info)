@@ -1,0 +1,7 @@
+
+SELECT 
+  COUNT(*)
+FROM `laboratoria-projeto-3-462014.projeto3.user_info` user
+LEFT JOIN `laboratoria-projeto-3-462014.projeto3.default` d
+ON user.user_id = d.user_id
+WHERE user.last_month_salary IS NULL AND d.default_flag = 0; 
